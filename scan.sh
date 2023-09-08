@@ -1,0 +1,1 @@
+curl --head https://www.neom.com -o headers

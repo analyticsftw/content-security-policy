@@ -1,0 +1,14 @@
+HTTP/2 301 
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+strict-transport-security: max-age=63072000; includeSubdomains;
+location: https://www.neom.com/en-us
+content-type: text/html; charset=iso-8859-1
+set-cookie: affinity="b89e2664d9cb0bf4"; Path=/; HttpOnly
+accept-ranges: bytes
+date: Thu, 07 Sep 2023 16:41:02 GMT
+x-served-by: cache-par-lfpg1960022-PAR
+x-cache: MISS
+x-timer: S1694104863.982255,VS0,VS0,VE18
+content-length: 234
+
